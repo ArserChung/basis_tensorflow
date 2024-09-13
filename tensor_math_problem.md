@@ -7,3 +7,9 @@
 ## 張量(Tensor)資料結構
 
 https://zhuanlan.zhihu.com/p/37430176
+tensor由3個參數組成
+- rank
+- shape
+- type
+
+  
