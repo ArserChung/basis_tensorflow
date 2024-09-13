@@ -9,6 +9,7 @@
 https://zhuanlan.zhihu.com/p/37430176
 
 **tensor由3個參數組成**
-- rank
-- shape
-- type
+- rank : ndarrary.ndim 秩數
+- shape : ndarrary.shape 形狀
+- type : ndarrary.dtype 張量元素的資料型別
+
