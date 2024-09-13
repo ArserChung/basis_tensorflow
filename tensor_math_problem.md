@@ -1,6 +1,10 @@
 # 用Tensorflow解決數學問題
 
-** Intro **
+**TOC**
 - tensor data type
 - sol tensor for TF
+
+## 張量(Tensor)資料結構
+
+https://zhuanlan.zhihu.com/p/37430176
 
