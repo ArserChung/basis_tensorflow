@@ -1,6 +1,6 @@
-# 用Tensorflow解決數學問題
+# Tensorflow基礎
 
-** Intro **
-- tensor data type
+**REF**
+- [部分一](tensor_math_problem.md)
 - sol tensor for TF
 
